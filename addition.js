@@ -5,4 +5,6 @@ function add(a, b) {
   return a + b;
 }
 
+//JE VAIS T'ENCULER
+
 calculate('addition', add);

@@ -2,7 +2,7 @@
 * subtract b from a
 */
 function subtract(a, b) {
-  return -b + a;
+  return  a - b;
 }
 
 calculate('subtraction', subtract);
