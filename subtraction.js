@@ -1,3 +1,6 @@
+/**
+* subtract b from a
+*/
 function subtract(a, b) {
   return a - b;
 }
